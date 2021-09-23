@@ -17,7 +17,7 @@
     expect(asFragment()).toMatchSnapshot();
   })
 
-})
+});
 
 
 afterEach(cleanup);
